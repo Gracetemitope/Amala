@@ -1,0 +1,112 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+.iphone {
+    display: flex;
+}
+.phone1 {
+    width: 280px;
+    height: 500px;
+    background-color: #ffffff;
+    margin-left: 60%;
+    margin-top: 100px;
+    border-radius: 35px;
+    background-image: url("./mt-fuji-sea-of-clouds-sunrise-46253.jpeg");
+    background-size: 250px 390px;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 1px 1px 3px 3px  lightgrey;
+
+}
+
+.speaker {
+    width: 100px;
+    background-color: lightgray;
+    margin-left: 35%;
+    height: 2px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.home {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 1px 1px 3px 3px  lightgrey;
+    margin-top: 420px;
+    margin-left: 45%;
+}
+.phone2 {
+    width: 280px;
+    height: 500px;
+    background-color: #ffffff;
+    margin-left: -24%;
+    margin-top: 200px;
+    border-radius: 35px;
+    background-image: url("./mt-fuji-sea-of-clouds-sunrise-46253.jpeg");
+    background-size: 250px 390px;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 1px 1px 2px 2px  lightgrey;
+
+}
+p {
+    margin-top: 170px;
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: 'Lucida Sans';
+    color: white;
+    text-shadow: 2px 2px 3px lightgrey;
+}
+.home1 {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 1px 1px 3px 3px  lightgrey;
+    margin-top: 230px;
+    margin-left: 45%;
+}
+.line1 {
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 2px;
+    height: 90px;
+    margin-top: 160px;
+    margin-left: -282px;
+    box-shadow: 1px 2px 3px lightgrey;
+}
+.line2 {
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 2px;
+    height: 40px;
+    margin-top: 280px;
+    margin-left: -1px;
+    box-shadow: 1px 2px 3px lightgrey;
+}
+.line1p {
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 2px;
+    height: 90px;
+    margin-top: -430px;
+    margin-left: -2px;
+    box-shadow: 1px 2px 3px lightgrey;
+    
+}
+.line2p {
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 2px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: -1px;
+    box-shadow: 1px 2px 3px lightgrey;
+
+}
